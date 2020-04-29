@@ -1,2 +1,0 @@
-# ReactBlumeAssignment
-Created with CodeSandbox
